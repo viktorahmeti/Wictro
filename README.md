@@ -1,0 +1,3 @@
+- Hi im Wictro
+-I'm an average programming and math enthusiast
+-This GitHub account is for projects I try to do on my own just for the fun of it
