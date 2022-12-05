@@ -1,1 +1,1 @@
--I'm an average programmer
+An average programmer
